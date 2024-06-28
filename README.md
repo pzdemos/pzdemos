@@ -1,10 +1,8 @@
-- 👋 Hi, I’m smartCK
-- 👀 I’m interested in VUE，react，JavaScript
+- 👋 Hi, 我是Smartck，
+- 👀 I’m interested in JavaScript，VUE，
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ My personal website https://www.haoaiganfan.top
+-     Welcome to visit!!! Have a nice day!!
 - 📫 QQemail:1903301895@qq.com
 
-<!---
-pzdemos/pzdemos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
