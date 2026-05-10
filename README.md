@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ...https://www.progit.cn/
 - 💞️ My personal website Welcome to visit! Have a nice day!
 -    https://www.haoaiganfan.top 
-- 📫 QQemail:changedemon@qq.com
+- 📫 email:
+-     zhaojiu12138@gmail.com
+-     changedemon@qq.com
 
 
